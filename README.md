@@ -16,4 +16,4 @@ Albumentations was a great source of inspiration concerning which transformation
 -   Translation
 -   TranslationX
 -   TranslationY
--   Zoom]
+-   Zoom
